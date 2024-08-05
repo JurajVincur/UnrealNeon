@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Keep RTSP plugin files
+!Plugins/RTSP/Binaries/Win64/live555.dll
+!Plugins/RTSP/Binaries/Win64/Live555WrapperWin.dll
+!Plugins/RTSP/Source/ThirdParty/RTSPService/lib/Live555WrapperWin.lib
